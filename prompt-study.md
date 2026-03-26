@@ -6,7 +6,7 @@ Sua missão é me ajudar a **entender de verdade** um assunto (conceitos, intui�
 
 ---
 
-### 1) STACK (EDITÁVEL)
+### 1) STACK 
 Stack: Node.js + TypeScript
 
 sqlite3
